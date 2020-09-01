@@ -8,7 +8,13 @@
 
 <details closed>
 <summary><b>📌 A Few Favorite Repositories</b>:</summary>
-- 
+<ul>
+    <li> <a href="https://github.com/microsoft/azuredatastudio"><strong>Microsoft/AzureDataStudio:</strong> Azure Data Studio</a></li>
+    <li> <a href="https://github.com/oderwat/vscode-indent-rainbow"><strong>oderwat/VSCode-Indent-Rainbow:</strong> VSCode extension for code readability</a></li>
+    <li> <a href="https://github.com/home-assistant/core"><strong>Home-Assistant/Core:</strong> Open home automation platform</a></li>
+    <li> <a href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit"><strong>BrentOzarULTD/SQL-Server-First-Responder-Kit:</strong> SQL server troubleshooting and query tuning scripts</a></li>
+    <li> <a href="https://github.com/chiefwigms/picobrew_pico"><strong>chiefwigms/PicoBrew_Pico:</strong> PicoBrew appliance control server</a></li>
+</ul>
 </details>
 
 ---
