@@ -63,4 +63,9 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Temperature with Home Assistant](https://www.drewsk.tech/2020/09/05/monitoring-temperature-with-home-assistant/)
+- [Management Reporter Error: GLTrans with transdate value far outside a normal range.](https://www.drewsk.tech/2020/04/02/management-reporter-error-gltrans-with-transdate-value-far-outside-a-normal-range/)
+- [Consuming a Webhook with Azure Logic Apps](https://www.drewsk.tech/2020/02/24/consuming-a-webhook-with-azure-logic-apps/)
+- [The Open Source Opportunity: How You Can Impact Azure Data Studio](https://www.drewsk.tech/2020/02/13/the-open-source-opportunity-how-you-can-impact-azure-data-studio/)
+- [T-SQL Tuesday #123](https://www.drewsk.tech/2020/02/11/t-sql-tuesday-123/)
 <!-- BLOG-POST-LIST:END -->
