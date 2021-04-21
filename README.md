@@ -1,6 +1,6 @@
 ### Hello!  Drew here.  👨🏼‍💻
 - Program Manager in Azure Data at Microsoft
-- Student in online MS CS program at Georgia Tech
+- Student in MS CS program at Georgia Tech
 - Occasional blogger and open source developer
 
 
@@ -28,7 +28,7 @@
 <li>⚾ Watching baseball</li>
 <li>🏋 Weight lifting</li>
 <li>⌨ Open source software</li>
-<li>📚 Reading reference and non-fiction</li>
+<li>📚 Reading</li>
 </ul>
 </details>
 
