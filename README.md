@@ -1,12 +1,12 @@
 ### Hello!  Drew here.  👨🏼‍💻
-- Program Manager in Azure Data at Microsoft
-- Student in MS CS program at Georgia Tech
+- Senior Program Manager in Azure Data at Microsoft ([SQL tools in VS Code](https://github.com/microsoft/vscode-mssql), [SQL bindings for Azure Functions](https://github.com/Azure-Samples/azure-sql-binding-func-dotnet-todo), [DacFx library for SQL development](https://github.com/microsoft/dacfx), [go-sqlcmd CLI](https://github.com/microsoft/go-sqlcmd))
+- Student in MS CS program at Georgia Tech ([SQL grading automation with SQLGrader](https://github.com/robertdroptablestudents))
 - Occasional blogger and open source developer
 
 
 ---
 
-<details closed>
+<details open>
 <summary><b>📌 A Few Favorite Repositories</b>:</summary>
 <ul>
     <li> <a href="https://github.com/microsoft/azuredatastudio"><strong>Microsoft/AzureDataStudio:</strong> Azure Data Studio</a></li>
@@ -18,14 +18,13 @@
 </details>
 
 ---
-<details closed>
+<details open>
 <summary><b>📌 Hobbies</b>:</summary>
 <ul>
 <li>💡 Starting side projects</li>
 <li>🌱 Gardening</li>
 <li>🍺 Home brewing</li>
 <li>🍰 Baking</li>
-<li>⚾ Watching baseball</li>
 <li>🏋 Weight lifting</li>
 <li>⌨ Open source software</li>
 <li>📚 Reading</li>
@@ -58,3 +57,7 @@
 </p>
 
 </details>
+
+---
+
+A few other projects 👇
