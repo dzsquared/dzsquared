@@ -1,6 +1,6 @@
 ### Hello!  Drew here.  👨🏼‍💻
-- Senior Program Manager in Azure Data at Microsoft ([SQL tools in VS Code](https://github.com/microsoft/vscode-mssql), [SQL bindings for Azure Functions](https://github.com/Azure-Samples/azure-sql-binding-func-dotnet-todo), [DacFx library for SQL development](https://github.com/microsoft/dacfx), [go-sqlcmd CLI](https://github.com/microsoft/go-sqlcmd))
-- Student in MS CS program at Georgia Tech ([SQL grading automation with SQLGrader](https://github.com/robertdroptablestudents))
+- Senior Program Manager in Azure Data at Microsoft ([SQL tools in VS Code](https://github.com/microsoft/vscode-mssql), [SQL bindings for Azure Functions](https://github.com/Azure-Samples/azure-sql-binding-func-dotnet-todo), [DacFx library for database development](https://github.com/microsoft/dacfx), [go-sqlcmd CLI](https://github.com/microsoft/go-sqlcmd))
+- Student in MS CS program at Georgia Tech ([grading automation with SQLGrader](https://github.com/robertdroptablestudents))
 - Occasional blogger and open source developer
 
 
