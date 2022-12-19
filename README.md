@@ -1,8 +1,7 @@
-### Hello!  Drew here.  👨🏼‍💻
+### Hello!  Drew here. (he/him)  👨🏼‍💻
 - Senior Program Manager in Azure Data at Microsoft ([SQL tools in VS Code](https://github.com/microsoft/vscode-mssql), [SQL bindings for Azure Functions](https://github.com/Azure-Samples/azure-sql-binding-func-dotnet-todo), [DacFx library for database development](https://github.com/microsoft/dacfx), [go-sqlcmd CLI](https://github.com/microsoft/go-sqlcmd))
-- Student in MS CS program at Georgia Tech ([grading automation with SQLGrader](https://github.com/robertdroptablestudents))
 - Occasional blogger and open source developer
-
+- Post-transition transman
 
 ---
 
@@ -26,7 +25,6 @@
 <li>🍺 Home brewing</li>
 <li>🍰 Baking</li>
 <li>🏋 Weight lifting</li>
-<li>⌨ Open source software</li>
 <li>📚 Reading</li>
 </ul>
 </details>
@@ -35,11 +33,12 @@
 <details closed>
 <summary><b>📌 Formerly</b>:</summary>
 <ul>
+<li> MS, Computer Science (Georgia Tech)</li>
 <li> Director of IT</li>
 <li> DBA and Database Developer</li>
-<li> MS, Chemistry</li>
+<li> MS, Chemistry (Univ of Minnesota)</li>
 <li> Computational chemistry researcher</li>
-<li> BS, Chemistry</li>
+<li> BS, Chemistry (Truman State Univ)</li>
 </ul>
 </details>
 
@@ -49,11 +48,11 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SysAdminDrew) 
-&nbsp; &nbsp;
-[<img src ="https://img.shields.io/badge/drewsk-.tech-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.drewsk.tech)
+[<img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://tech.lgbt/@sysadmindrew) 
 &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drew-skwiers-koballa/)
+&nbsp; &nbsp;
+[<img src ="https://img.shields.io/badge/drewsk-.tech-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.drewsk.tech)
 </p>
 
 </details>
