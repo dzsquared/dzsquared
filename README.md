@@ -1,5 +1,5 @@
 ### Hello!  Drew here. (he/him)  👨🏼‍💻
-- Senior Program Manager in Azure Data at Microsoft ([SQL tools in VS Code](https://github.com/microsoft/vscode-mssql), [SQL bindings for Azure Functions](https://github.com/Azure-Samples/azure-sql-binding-func-dotnet-todo), [DacFx library for database development](https://github.com/microsoft/dacfx), [go-sqlcmd CLI](https://github.com/microsoft/go-sqlcmd))
+- Principal Program Manager at Microsoft, usually working on database tools for developers ([DacFx library for database development](https://github.com/microsoft/dacfx), [GitHub Action for SQL](https://github.com/azure/sql-action))
 - Occasional blogger and open source developer
 - Post-transition transman
 
@@ -22,7 +22,6 @@
 <ul>
 <li>💡 Starting side projects</li>
 <li>🌱 Gardening</li>
-<li>🍺 Home brewing</li>
 <li>🍰 Baking</li>
 <li>🏋 Weight lifting</li>
 <li>📚 Reading</li>
@@ -31,7 +30,7 @@
 
 ---
 <details closed>
-<summary><b>📌 Formerly</b>:</summary>
+<summary><b>📌 Previous milestones</b>:</summary>
 <ul>
 <li> MS, Computer Science (Georgia Tech)</li>
 <li> Director of IT</li>
@@ -44,15 +43,15 @@
 
 ---
 <details open>
-<summary><b>📌 Contact Info</b>:</summary>
+<summary><b>📌 Stay in touch</b>:</summary>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://tech.lgbt/@sysadmindrew) 
-&nbsp; &nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drew-skwiers-koballa/)
+[<img src="https://img.shields.io/badge/Azure_SQL_Dev_Corner-%23001db5.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />](https://devblogs.microsoft.com/azure-sql/)
 &nbsp; &nbsp;
 [<img src ="https://img.shields.io/badge/drewsk-.tech-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.drewsk.tech)
+&nbsp; &nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drew-skwiers-koballa/)
 </p>
 
 </details>
