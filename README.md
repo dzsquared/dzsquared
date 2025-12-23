@@ -1,5 +1,5 @@
 ### Hello!  Drew here. (he/him)  👨🏼‍💻
-- Principal Program Manager at Microsoft, usually working on database tools for developers ([DacFx library for database development](https://github.com/microsoft/dacfx), [GitHub Action for SQL](https://github.com/azure/sql-action))
+- Principal Program Manager at Microsoft, usually working on database tools for developers (like the [DacFx library for database development](https://github.com/microsoft/dacfx)
 - Occasional blogger and open source developer
 - Post-transition transman
 
@@ -8,11 +8,11 @@
 <details open>
 <summary><b>📌 A Few Favorite Repositories</b>:</summary>
 <ul>
-    <li> <a href="https://github.com/microsoft/azuredatastudio"><strong>Microsoft/AzureDataStudio:</strong> Azure Data Studio</a></li>
+    <li> <a href="https://github.com/microsoft/dacfx"><strong>Microsoft/DacFx:</strong> Database DevOps for SQL Server, Azure SQL, and SQL database in Fabric</a></li> 
     <li> <a href="https://github.com/oderwat/vscode-indent-rainbow"><strong>oderwat/VSCode-Indent-Rainbow:</strong> VSCode extension for code readability</a></li>
     <li> <a href="https://github.com/home-assistant/core"><strong>Home-Assistant/Core:</strong> Open home automation platform</a></li>
     <li> <a href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit"><strong>BrentOzarULTD/SQL-Server-First-Responder-Kit:</strong> SQL server troubleshooting and query tuning scripts</a></li>
-    <li> <a href="https://github.com/chiefwigms/picobrew_pico"><strong>chiefwigms/PicoBrew_Pico:</strong> PicoBrew appliance control server</a></li>
+    <li> <a href="https://github.com/microsoft/azuredatastudio"><strong>Microsoft/AzureDataStudio:</strong> 🪦 Azure Data Studio</a></li> 
 </ul>
 </details>
 
@@ -47,8 +47,6 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Azure_SQL_Dev_Corner-%23001db5.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />](https://devblogs.microsoft.com/azure-sql/)
-&nbsp; &nbsp;
 [<img src ="https://img.shields.io/badge/drewsk-.tech-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.drewsk.tech)
 &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drew-skwiers-koballa/)
