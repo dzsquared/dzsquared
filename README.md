@@ -1,5 +1,5 @@
 ### Hello!  Drew here. (he/him)  👨🏼‍💻
-- Principal Program Manager at Microsoft, usually working on database tools for developers (like the [DacFx library for database development](https://github.com/microsoft/dacfx)
+- Principal Product Manager at Microsoft, usually working on database tools for developers (like the [DacFx library for database development](https://github.com/microsoft/dacfx)
 - Occasional blogger and open source developer
 - Post-transition transman
 
@@ -11,6 +11,8 @@
     <li> <a href="https://github.com/microsoft/dacfx"><strong>Microsoft/DacFx:</strong> Database DevOps for SQL Server, Azure SQL, and SQL database in Fabric</a></li> 
     <li> <a href="https://github.com/oderwat/vscode-indent-rainbow"><strong>oderwat/VSCode-Indent-Rainbow:</strong> VSCode extension for code readability</a></li>
     <li> <a href="https://github.com/home-assistant/core"><strong>Home-Assistant/Core:</strong> Open home automation platform</a></li>
+    <li> <a href="https://github.com/Ji4n1ng/OpenInTerminal"><strong>Ji4n1ng/OpenInTerminal:</strong> Open terminal/editor from Finder</a></li>
+    <li> <a href="https://github.com/excalidraw/excalidraw"><strong>excalidraw/excalidraw:</strong> Virtual whiteboard and quick diagram editor</a></li>  
     <li> <a href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit"><strong>BrentOzarULTD/SQL-Server-First-Responder-Kit:</strong> SQL server troubleshooting and query tuning scripts</a></li>
     <li> <a href="https://github.com/microsoft/azuredatastudio"><strong>Microsoft/AzureDataStudio:</strong> 🪦 Azure Data Studio</a></li> 
 </ul>
